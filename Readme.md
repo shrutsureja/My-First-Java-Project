@@ -1,5 +1,4 @@
 # Fun-Games
-----------
 > This is my First Java Project i made this during my school day's back in 2017-18
 
 If you want to run this file follow this step's:
