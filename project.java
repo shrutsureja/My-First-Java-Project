@@ -1426,7 +1426,7 @@ class project
                 System.out.println("===================================");
                 System.out.println("Thanks For The Visit At FUN-GAMES");
                 System.out.println("Play Again And Have A Good Day:"+name);
-		System.out.println("This project was created by Shrut Sureja");
+		        System.out.println("This project was created by Shrut Sureja");
                 System.out.println("===================================");
             }
         }
